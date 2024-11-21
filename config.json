@@ -1,0 +1,5 @@
+{
+    "hostname": "test_host",
+    "filesystem_path": "virtual_file_system.tar",
+    "startup_script": "startup_script.sh"
+}
